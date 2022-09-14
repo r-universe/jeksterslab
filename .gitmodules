@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "semmcci"]
+	path = semmcci
+	url = https://github.com/jeksterslab/semmcci
+	shallow = true
+	registered = true
