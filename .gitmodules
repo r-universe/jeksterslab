@@ -8,3 +8,8 @@
 	url = https://github.com/jeksterslab/semmcci
 	shallow = true
 	registered = true
+[submodule "betaSandwich"]
+	path = betaSandwich
+	url = https://github.com/jeksterslab/betaSandwich
+	shallow = true
+	registered = true

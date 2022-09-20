@@ -2,5 +2,9 @@
   {
     "package": "semmcci",
     "oncran": true
+  },
+  {
+    "package": "betaSandwich",
+    "oncran": true
   }
 ]
