@@ -12,6 +12,7 @@
     "oncran": true
   },
   {
-    "package": "betaMC"
+    "package": "betaMC",
+    "oncran": false
   }
 ]
