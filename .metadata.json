@@ -10,5 +10,8 @@
   {
     "package": "betaSandwich",
     "oncran": true
+  },
+  {
+    "package": "betaMC"
   }
 ]

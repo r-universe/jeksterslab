@@ -18,3 +18,8 @@
 	url = https://github.com/jeksterslab/betaSandwich
 	shallow = true
 	registered = true
+[submodule "betaMC"]
+	path = betaMC
+	url = https://github.com/jeksterslab/betaMC
+	shallow = true
+	registered = true
