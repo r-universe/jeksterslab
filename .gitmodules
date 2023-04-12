@@ -23,3 +23,8 @@
 	url = https://github.com/jeksterslab/betaMC
 	shallow = true
 	registered = true
+[submodule "betaNB"]
+	path = betaNB
+	url = https://github.com/jeksterslab/betaNB
+	shallow = true
+	registered = true
