@@ -2,18 +2,18 @@
 	path = .registry
 	url = https://github.com/jeksterslab/universe
 	branch = HEAD
-[submodule "semmcci"]
-	path = semmcci
-	url = https://github.com/jeksterslab/semmcci
 [submodule "betaDelta"]
 	path = betaDelta
 	url = https://github.com/jeksterslab/betaDelta
-[submodule "betaSandwich"]
-	path = betaSandwich
-	url = https://github.com/jeksterslab/betaSandwich
 [submodule "betaMC"]
 	path = betaMC
 	url = https://github.com/jeksterslab/betaMC
 [submodule "betaNB"]
 	path = betaNB
 	url = https://github.com/jeksterslab/betaNB
+[submodule "betaSandwich"]
+	path = betaSandwich
+	url = https://github.com/jeksterslab/betaSandwich
+[submodule "semmcci"]
+	path = semmcci
+	url = https://github.com/jeksterslab/semmcci
