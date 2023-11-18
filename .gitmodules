@@ -17,3 +17,6 @@
 [submodule "semmcci"]
 	path = semmcci
 	url = https://github.com/jeksterslab/semmcci
+[submodule "simStateSpace"]
+	path = simStateSpace
+	url = https://github.com/jeksterslab/simStateSpace
