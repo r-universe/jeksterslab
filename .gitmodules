@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/jeksterslab/universe
+	url = https://github.com/jeksterslab/jeksterslab.r-universe.dev
 	branch = HEAD
 [submodule "betaDelta"]
 	path = betaDelta
