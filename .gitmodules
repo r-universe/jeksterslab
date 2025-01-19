@@ -14,6 +14,10 @@
 [submodule "betaSandwich"]
 	path = betaSandwich
 	url = https://github.com/jeksterslab/betaSandwich
+[submodule "bootStateSpace"]
+	path = bootStateSpace
+	url = https://github.com/jeksterslab/bootStateSpace
+	registered = false
 [submodule "cTMed"]
 	path = cTMed
 	url = https://github.com/jeksterslab/cTMed
