@@ -20,6 +20,9 @@
 [submodule "cTMed"]
 	path = cTMed
 	url = https://github.com/jeksterslab/cTMed
+[submodule "fitVARMxID"]
+	path = fitVARMxID
+	url = https://github.com/jeksterslab/fitVARMxID
 [submodule "semmcci"]
 	path = semmcci
 	url = https://github.com/jeksterslab/semmcci
